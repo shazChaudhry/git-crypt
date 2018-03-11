@@ -1,7 +1,6 @@
 ### Some useful resources:
 1) GPG Cheet Sheet - http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/
-2) Introduction to GPG Encryption and git-crypt - https://blogs.s-osg.org/introduction-gpg-encryption-git-crypt/
-3) Docker git-crypt Alpine image - https://github.com/lukebond/docker-git-crypt
+2) Introduction to GPG Encryption and git-crypt - https://blogs.s-osg.org/introduction-gpg-encryption-git-crypt
 
 ---------------------------------------------------------------------------------------------------
 
